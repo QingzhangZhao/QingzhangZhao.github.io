@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -5,6 +6,21 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
+=======
+# Site settings
+title: This is a track
+email: zhaoqingzhanghust@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+        # Write an awesome description for your new site here. You can edit this
+        #line in _config.yml. It will appear in your document head meta (for
+        #Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://QingzhangZhao.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  QingzhangZhao
+
+# Build settings
+>>>>>>> a1fa087230d551ff407a964bbbd163928d794559
 markdown: kramdown
 
 # The title and tagline is showed on homepage
